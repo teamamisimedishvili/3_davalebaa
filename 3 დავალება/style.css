@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+.konteineri {
+    margin: 150px auto;
+    background-color: #FAF4EF;
+    margin-top: 270px;
+    height: 420px;
+    width: 366px;
+   border-bottom-left-radius: 50px;
+}
+.satauri {
+    font-size: 36px;
+    padding-top: 43px;
+    width: 289px;
+    height: 54px;
+    padding-left: 38px;
+    color: #4B4B4B;
+    }
+    .dolari {
+     font-size: 24px;
+    width: 177px;
+    height: 41px;
+    padding-left: 45px;
+    color: #737373;
+    }
+    img {
+        width: 329px;
+        height: 329px;
+        padding-left: 25px;
+       display: flex;
+       justify-content: center;
+    }
